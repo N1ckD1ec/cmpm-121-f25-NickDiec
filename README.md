@@ -43,5 +43,4 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 3. The workflow will automatically deploy on pushes to the `main` branch
 4. Your site will be published at `https://<your-github-username>.github.io/<repository-name>/`
 
-
 ## When button is clicked, value of counter is changed and displayed.
